@@ -1,1 +1,3 @@
 Esto es un archivo de texto.
+
+Modificando file.txt.
